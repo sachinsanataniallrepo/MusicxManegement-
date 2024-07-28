@@ -1,7 +1,7 @@
 {
-   "name": "Yae Miko",
+   "name": "˹ ᴬᴺᴺᴵᴱ ✘ Management ♪™",
    "description": "A versatile Telegram Group Management Bot.",
-   "logo": "https://telegra.ph/file/4d370b478d90d98709398.jpg",
+   "logo": "https://graph.org/file/eabfb1087a5508dbbb218.jpg",
    "keywords": ["telegram", "modular", "group", "management", "Miko"],
    "repository": "https://github.com/Infamous-Hydra/YaeMiko",
    "stack": "heroku-22",
@@ -41,7 +41,7 @@
       "MESSAGE_DUMP": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1001891687243"
       },
       "MONGO_DB_URI": {
          "description": "Required for MongoDB database connections.",
@@ -56,17 +56,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5907205317"
+         "value": "6462365139"
       },
       "DEV_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5907205317"
+         "value": "6902209861"
       },
       "DRAGONS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "5907205317"
+         "value": "6491756625"
       },
       "STRICT_GBAN": {
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
@@ -75,17 +75,17 @@
       "DEMONS": {
          "description": "A space separated list of user IDs who can use Gban From Your Bot",
          "required": false,
-         "value": "5907205317"
+         "value": "6462365139"
       },
       "TIGERS": {
          "description": "A space separated list of user IDs who can not be banned by your Bot",
          "required": false,
-         "value": "5907205317"
+         "value": "7482070738"
       },
       "WOLVES": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "5907205317"
+         "value": "7379512533"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username. Users will reach out for assistance. Example: MyGroupChatUsernameBlah. Avoid pointing to Miko Support to prevent conflicts.",
@@ -95,7 +95,7 @@
       "SUPPORT_ID": {
          "description": "Support chat ID.",
          "required": true,
-         "value": "-1001511142636"
+         "value": "-1001891687243"
       },
       "DB_NAME": {
          "description": "Your MongoDB name.",
